@@ -1,0 +1,24 @@
+* bd69db5 Agregando 2 párrafos
+* 4c0627c Agregando párrafo
+*   b669aec Resolviendo conflicto en la lista
+|\  
+| * 2c3fe0f agregando lista ordenada
+* | 632d8c9 Agregando nuevos ítems a la lista
+|/  
+*   1956626 resolviendo conflicto merge main/html en el index.html
+|\  
+| * b32653d agregando index.js a index.html
+* | 11e56c3 agregando style.css a index.html
+* |   e556e0f Merge branch 'javascript'
+|\ \  
+| * | fe5fc20 agregando index.js
+* | | 787372c agregando style.css
+| |/  
+|/|   
+* | c583446 creando index.html
+|/  
+* fad1a64 ignorando archivos .exe
+* 8755632 Creando licencia del repositorio
+* 8fb043e Agregando nuevo contenido a README
+* d0e840d Agregando contenido inicial al README
+* 5fe6fe0 Primer commit 😁
